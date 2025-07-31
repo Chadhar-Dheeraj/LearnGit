@@ -6,7 +6,6 @@ pipeline {
             steps {
                 echo 'Hello, World! Jenkins Pipeline is Working!'
 
-
             }
         }
     }
