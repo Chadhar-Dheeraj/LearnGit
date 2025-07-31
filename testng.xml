@@ -7,9 +7,5 @@
       <class name="TestScenarios.TestMethodPageFactory"></class>
     </classes>
   </test> <!-- Test -->
-
-
-
-
   
 </suite> <!-- testing -->
