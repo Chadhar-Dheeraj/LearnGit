@@ -6,6 +6,7 @@
 	<artifactId>java</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<dependencies>
+		
 		<!--
 		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
@@ -22,6 +23,7 @@
 			<scope>test</scope>
 		</dependency>
 
+		
 		<!-- https://mvnrepository.com/artifact/org.uncommons/reportng -->
 		<dependency>
 			<groupId>org.uncommons</groupId>
