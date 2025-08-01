@@ -6,8 +6,6 @@
       <class name="TestScenarios.TestMethods_GoogleSearch"/>
       <class name="TestScenarios.TestMethodPageFactory"></class>
     </classes>    
-
-
   </test> <!-- Test -->
 
 
